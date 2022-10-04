@@ -1,0 +1,20 @@
+import random
+import os
+
+print("вступление")
+name = input("введите имя")
+print(f"{name} решил подраться с разбойниками")
+input("НАЖМИТЕ ЧТО УГОДНО ЧТОБЫ ПРОВЕСТИ АТАКУ")
+os.system("cls")
+user_health = 100
+rasboynik_health = 100
+atack = random.randint(50,100)
+while user_health = True or rasboynik_health = True:
+
+    print("вы снесли разбойнику: ")
+    int(input(((rasboynik_health -
+    + atack) == rasboynik_health))
+if:
+    print("разбойник снес: ")
+    int(input(user_health - atack) == user_health)
+
